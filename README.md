@@ -8,3 +8,5 @@ git practice
 	branch test
 
 pullrequest test
+
+ブランチ名をmasterからmainに変更しました。
